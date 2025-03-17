@@ -5,7 +5,7 @@ This repository documents my journey through Machine Learning and Large Language
 
 ## 📚 Notebooks & Projects
 
-#### [1. Handwritten Digit Classification with MLP](./1-classification-of-handwritten-digits-using-an-mlp)
+#### [1. Handwritten Digit Classification with MLP](./1-classification-of-handwritten-digits-using-an-mlp.ipynb)
 - **Technologies**: PyTorch, Neural Networks
 - **Key Implementations**:
   - Multi-Layer Perceptron (MLP) architecture
@@ -16,7 +16,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Implementation of backpropagation
   - Image data preprocessing techniques
 
-#### [2. PyTorch and Hugging Face Scavenger Hunt](./2-pytorch-and-hugging-face-scavenger-hunt)
+#### [2. PyTorch and Hugging Face Scavenger Hunt](./2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt.ipynb)
 - **Technologies**: PyTorch, Hugging Face Transformers
 - **Key Implementations**:
   - Exploration of PyTorch fundamentals
@@ -29,7 +29,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Framework integration best practices
 
 
-#### [3. Transfer Learning with MobileNetV3](./3-transfer-learning-using-mobilenetv3)
+#### [3. Transfer Learning with MobileNetV3](./3-transfer-learning-using-mobilenetv3.ipynb)
 - **Technologies**: PyTorch, MobileNetV3
 - **Key Implementations**:
   - Transfer learning using pre-trained MobileNetV3
@@ -40,7 +40,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Mobile-optimized architecture understanding
   - Modern CNN architectures and their applications
 
-#### [4. Spam Email Classification using Foundation Models](./4-use-a-foundation-model-to-build-a-spam-email-classifier)
+#### [4. Spam Email Classification using Foundation Models](./4-use-a-foundation-model-to-build-a-spam-email-classifier.ipynb)
 - **Technologies**: Transformers, HuggingFace
 - **Key Implementations**:
   - Foundation model adaptation for classification
@@ -51,7 +51,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Text classification pipelines
   - Model evaluation for binary tasks
 
-#### [5. BERT Sentiment Classification](./5-create-a-bert-sentiment-classifier)
+#### [5. BERT Sentiment Classification](./5-create-a-bert-sentiment-classifier.ipynb)
 - **Technologies**: BERT, PyTorch, Transformers
 - **Key Implementations**:
   - BERT-based sentiment analysis
@@ -62,7 +62,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Sentiment analysis techniques
   - Transformer model fine-tuning
 
-#### [6. Token Generation Implementation](./6-generating-one-token-at-a-time)
+#### [6. Token Generation Implementation](./6-generating-one-token-at-a-time.ipynb)
 - **Technologies**: Transformers, PyTorch
 - **Key Implementations**:
   - Autoregressive token generation
@@ -73,7 +73,7 @@ This repository documents my journey through Machine Learning and Large Language
   - Token generation algorithms
   - Text generation optimization
 
-#### [7. BERT Full Fine-tuning](./7-full-fine-tuning-bert)
+#### [7. BERT Full Fine-tuning](./7-full-fine-tuning-bert.ipynb)
 - **Technologies**: BERT, PyTorch, Transformers
 - **Key Implementations**:
   - Complete BERT model fine-tuning
